@@ -137,7 +137,7 @@ Possible improvements include:
 ## 📌 Repository Structure
 
 ```bash
-├── Sales_Forecasting_Task1_Niharika.ipynb
+├── Sales_Forecasting_System.ipynb
 ├── Sample_Superstore.csv
 └── README.md
 ```
